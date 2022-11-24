@@ -1,0 +1,28 @@
+body {
+    background-color: white;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    float: middle;
+}
+
+a {
+    display: block;
+    padding: 10px;
+    font-size: 20px;
+    background-color: black;
+    color: #7e3dc2;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+    background-color: #7e3dc2;
+    text-decoration: none;
+}
